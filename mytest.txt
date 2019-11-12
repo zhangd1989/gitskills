@@ -4,3 +4,6 @@ i make this file to write down what i want to write
 create a new branch is quick and simple.
 
 i just want to change this file, for testing the command : git merge
+
+
+i change this file in branch dev2, i wang to see that if i delete the branch dev2, can i see the commit history in log history.
