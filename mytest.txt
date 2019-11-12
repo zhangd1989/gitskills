@@ -2,3 +2,5 @@ this is a test txt file;
 i make this file to write down what i want to write
 
 create a new branch is quick and simple.
+
+i just want to change this file, for testing the command : git merge
